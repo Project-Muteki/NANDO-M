@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name nand_programmator)(type Legacy)(uri ${KIPRJMOD}/sch_lib/nand_programmator.lib)(options "")(descr ""))
+	(version 7)
+	(lib (name "nand_programmator") (type "Legacy") (uri "${KIPRJMOD}/sch_lib/nand_programmator.lib") (options "") (descr ""))
+	(lib (name "nand_programmator-cache") (type "Legacy") (uri "$(KIPRJMOD)/nand_programmator-cache.lib") (options "") (descr "Legacy project cache library"))
 )
