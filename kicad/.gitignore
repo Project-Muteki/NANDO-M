@@ -9,3 +9,6 @@ fp-info-cache
 
 jlcpcb/gerber
 jlcpcb/production_files
+
+**/jlcpcb/gerber
+**/jlcpcb/production_files
