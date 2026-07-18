@@ -156,7 +156,7 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.075,
+        "min_copper_edge_clearance": 0.2,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.1,
         "min_hole_to_hole": 0.25,
@@ -715,7 +715,7 @@
         "uuid": "df3588f6-3451-4f3e-adb5-fb62ced6169c"
       }
     ],
-    "used_designators": "J7,C15",
+    "used_designators": "C15,J7,R16-17,#PWR32",
     "variants": []
   },
   "sheets": [
